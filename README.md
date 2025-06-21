@@ -1,19 +1,19 @@
-# Blog-P1
-<!DOCTYPE html>
+# Fluffyshitt
+<Hola, soy FLUffYRT✮⋆˙>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Mis escritos</title>
+  <title>Qué es este horrible?</title>
   <style>
     body {
       font-family: Georgia, serif;
-      background-color: #fdfdfd;
-      color: #222;
+      background-color: #8C814A;
+      color: ##590202;
       max-width: 700px;
       margin: 40px auto;
       padding: 20px;
-      line-height: 1.7;
+      line-height: 1.5;
     }
     h1 {
       text-align: center;
@@ -25,7 +25,7 @@
     h2 {
       margin-top: 40px;
       font-size: 1.8rem;
-      color: #444;
+      color: #D97E4A;
     }
     p {
       text-align: justify;
@@ -34,7 +34,7 @@
       text-align: center;
       margin-top: 50px;
       font-size: 0.9rem;
-      color: #999;
+      color: #BF3F34;
     }
   </style>
 </head>
@@ -43,10 +43,12 @@
   <h1>Mis escritos</h1>
 
   <article>
-    <h2>Mi primer texto</h2>
+    <h2>Presentación</h2>
     <p>
-      oola soy la ratita x fis denme $10,000 pesos  
-      asi es 
+      Holi ≽^• ˕ • ྀི≼  
+ Utilizo este espacio para poder sacar lo que siento/pienso, una especie de diario. No me dedico a escribir pero es lo que me queda para tener una catarsis inmediata.
+      Si tienen algún feedback o lo que sea, siéntanse libres de dejarlo, lo leeré con mucho cariño.
+
     </p>
   </article>
 
