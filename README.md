@@ -1,7 +1,8 @@
 # Fluffyshitt
 Hola, soy FLUffYRT✮⋆˙
+<color:#BF3F34;
 <html lang="es">
-color:#BF3F34;
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
