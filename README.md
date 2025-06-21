@@ -1,6 +1,7 @@
 # Fluffyshitt
-<Hola, soy FLUffYRT✮⋆˙>
+Hola, soy FLUffYRT✮⋆˙
 <html lang="es">
+color:#BF3F34;
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -8,7 +9,7 @@
   <style>
     body {
       font-family: Georgia, serif;
-      background-color: #8C814A;
+      background-color: #D9BF8F;
       color: ##590202;
       max-width: 700px;
       margin: 40px auto;
@@ -25,7 +26,7 @@
     h2 {
       margin-top: 40px;
       font-size: 1.8rem;
-      color: #D97E4A;
+      color: #8C814A;
     }
     p {
       text-align: justify;
