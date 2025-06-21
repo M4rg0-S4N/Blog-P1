@@ -45,8 +45,8 @@
   <article>
     <h2>Mi primer texto</h2>
     <p>
-      El silencio no era ausencia, era un espacio lleno de cosas que no sabíamos nombrar.  
-      A veces me pregunto cuántos ruidos hace el alma antes de rendirse.
+      oola soy la ratita x fis denme $10,000 pesos  
+      asi es 
     </p>
   </article>
 
@@ -54,7 +54,7 @@
     <h2>Reflexión sin título</h2>
     <p>
       No todos los días tengo algo para decir, pero sí muchas cosas que siento.  
-      Este espacio es solo eso: un rincón sin filtros para escribir como respiro.
+      Aqui wa dejar mis cosas buenas tardes amen 
     </p>
   </article>
 
