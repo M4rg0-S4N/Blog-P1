@@ -114,14 +114,14 @@ Hola, soy FLUffYRT✮⋆˙
     <section class="entrada">
       <h2>Diario #2</h2>
       <p>
-        Hay días en que solo quiero hablar con una pared, porque al menos la pared no responde con frases enlatadas.
+        tibieza enlatadas, dureza servida.
       </p>
     </section>
 
     <section class="sobre-mi" id="sobre-mi">
       <h2>Sobre mí</h2>
       <p>
-        FLUffYRT es un animalillo emocional atrapado entre lo sucio, lo brillante, lo punk y lo cursi. Escribo para no tragarme el grito.
+        FLUffYRT es un animalillo emocional atrapado entre lo sucio, lo brillante, lo punk y lo queer. Escribo para no tragarme el grito.
       </p>
     </section>
 
