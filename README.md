@@ -92,7 +92,9 @@ Hola, soy FLUffYRT✮⋆˙
   <header>
     <h1>Fluffyshit</h1>
     <div class="icono-rata">
-      <!-- Aquí puedes subir una imagen de una rata punk triste -->
+      <!-- Aquí puedes subir una imagen de una rata punk triste --> 
+      <img width="1417" height="1417" alt="mosca 1" src="https://github.com/user-attachments/assets/ce9459a5-dacf-4427-8890-e04af7d71cdd" />
+
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rat_face_icon.svg/1024px-Rat_face_icon.svg.png" alt="rata punk triste">
     </div>
   </header>
